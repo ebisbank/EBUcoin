@@ -42,7 +42,8 @@ Use the “Verify and Publish” feature on Basescan.
 
 Reference this GitHub repo URL in the verification form.
 
-Contact
+Contact:
+website: https://www.ebisbank.com 
 
 For technical or security inquiries: info@ebisbank.com
 
