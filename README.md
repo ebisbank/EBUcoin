@@ -32,6 +32,8 @@ Any third party may reproduce, review, and compile this code to validate that it
 
 For verification on Basescan:
 
+https://basescan.org/address/0xd6783717e691cacbbb9a643cdb52663bc041adf2
+
 Confirm that the contract source files here match the deployed version.
 
 Use the “Verify and Publish” feature on Basescan.
