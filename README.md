@@ -1,6 +1,10 @@
 # EBUcoin
 EBUID – Smart Contract Transparency Statement
 
+Data-backed utility token. 
+
+Your DNA. Your Data. Your Identity. Your Worth. Your Control.
+
 EBUID is a decentralized biometric-genomic identity protocol developed by EBIS Next Generation ID Limited.
 This repository provides the verified source code for the EBUID smart contracts deployed on Base.
 Publishing this code ensures full transparency, allowing Basescan to update the contract, add EBUCoin Icon and display the Verified on GitHub badge.
