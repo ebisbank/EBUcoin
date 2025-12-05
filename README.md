@@ -9,6 +9,8 @@ Purpose of This Repository
 
 Public verification of EBUID contract source Contract Code: 0xcE1963f44a28Ef3C8E34F705D2EA8f880C8A2e13.
 
+Token EBU (EBU): https://basescan.org/token/0xcE1963f44a28Ef3C8E34F705D2EA8f880C8A2e13?a=0xd6783717e691cacbbb9a643cdb52663bc041adf2
+
 Compliance with Base ecosystem transparency guidelines
 
 Audit-ready storage of contract logic and dependencies
